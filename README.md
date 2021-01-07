@@ -1,6 +1,6 @@
-Blender-Models
-<b> First Edit: </b> 12/17/20
-<b> Most Recent Edit: </b> 01/07/21
+Blender-Models <br />
+<b> First Edit: </b> 12/17/20 <br />
+<b> Most Recent Edit: </b> 01/07/21 <br />
 
 ## Author
 

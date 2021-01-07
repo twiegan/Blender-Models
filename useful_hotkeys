@@ -14,6 +14,7 @@ A : Select everything
 Advanced:
 Ctrl-R : Loop Cut
 Ctrl-L : Select all linked vertices
+Shift-D : Copy Highlighted
 
 Misc:
 After making object P -> selection : Makes this a new object 
