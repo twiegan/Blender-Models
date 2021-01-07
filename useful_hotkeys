@@ -1,0 +1,19 @@
+Blender Useful Hotkeys:
+
+View:
+MMB : Rotate
+Shift + MMB : Shift
+Ctrl + MMB Slow Zoom
+
+Basic Transforms:
+G : Shift (X, Y, Z to select individual axis)
+S : Scale (X, Y, Z to select individual axis)
+E : Extrude 
+A : Select everything
+
+Advanced:
+Ctrl-R : Loop Cut
+Ctrl-L : Select all linked vertices
+
+Misc:
+After making object P -> selection : Makes this a new object 
