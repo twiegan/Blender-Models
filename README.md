@@ -1,6 +1,6 @@
 Blender-Models <br />
 <b> First Edit: </b> 12/17/20 <br />
-<b> Most Recent Edit: </b> 01/07/21 <br />
+<b> Most Recent Edit: </b> 05/17/21 <br />
 
 ## Author
 
@@ -9,7 +9,8 @@ Thomas Wiegand
 ## Description
 
 This project contains all Blender models that I have made,
-separated into their appropriate folders.
+separated into their appropriate folders.<br>
+Some models are completely my own creation and some closely follow online tututorials.
 
 ## Format
 
