@@ -10,7 +10,7 @@ Thomas Wiegand
 
 This project contains all Blender models that I have made,
 separated into their appropriate folders.<br>
-Some models are completely my own creation and some closely follow online tututorials.
+Some models are completely my own creation and some follow online tutorials.
 
 ## Format
 
